@@ -1,0 +1,1 @@
+This is Sonea's first git project!
